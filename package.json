@@ -1,0 +1,31 @@
+{
+  "name": "graphmaptime",
+  "version": "1.0.0",
+  "description": "A TypeScript library for knowledge graphs, timelines, and maps with interactive features.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "src"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && node dist/index.js",
+    "test": "echo \"No tests specified\" && exit 0",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "knowledge-graph",
+    "timeline",
+    "map",
+    "visualization",
+    "typescript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0"
+  }
+}
