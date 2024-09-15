@@ -7,3 +7,4 @@ class SettingsPanel {
     }
 }
 exports.SettingsPanel = SettingsPanel;
+//# sourceMappingURL=SettingsPanel.js.map

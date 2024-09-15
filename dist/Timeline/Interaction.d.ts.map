@@ -1,0 +1,1 @@
+{"version":3,"file":"Interaction.d.ts","sourceRoot":"","sources":["../../src/Timeline/Interaction.ts"],"names":[],"mappings":"AAAA,qBAAa,mBAAmB;WACd,YAAY,CAAC,KAAK,EAAE,MAAM,GAAG,IAAI;WAIjC,YAAY,CAAC,QAAQ,EAAE,MAAM,GAAG,IAAI;WAIpC,YAAY,CAAC,QAAQ,EAAE,MAAM,GAAG,KAAK,EAAE;CAIxD"}

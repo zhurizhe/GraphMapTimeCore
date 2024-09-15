@@ -14,3 +14,4 @@ class TimelineInteraction {
     }
 }
 exports.TimelineInteraction = TimelineInteraction;
+//# sourceMappingURL=Interaction.js.map

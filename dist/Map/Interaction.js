@@ -13,3 +13,4 @@ class MapInteraction {
     }
 }
 exports.MapInteraction = MapInteraction;
+//# sourceMappingURL=Interaction.js.map

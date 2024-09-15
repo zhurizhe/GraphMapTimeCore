@@ -1,0 +1,1 @@
+{"version":3,"file":"Interaction.d.ts","sourceRoot":"","sources":["../../src/Map/Interaction.ts"],"names":[],"mappings":"AAAA,qBAAa,cAAc;WACT,OAAO,CAAC,KAAK,EAAE,MAAM,GAAG,IAAI;WAI5B,OAAO,CAAC,QAAQ,EAAE;QAAE,CAAC,EAAE,MAAM,CAAC;QAAC,CAAC,EAAE,MAAM,CAAA;KAAE,GAAG,IAAI;WAIjD,SAAS,CAAC,MAAM,EAAE,GAAG,GAAG,IAAI;CAG7C"}

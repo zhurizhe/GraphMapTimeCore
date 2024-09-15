@@ -10,3 +10,4 @@ class Toolbar {
     }
 }
 exports.Toolbar = Toolbar;
+//# sourceMappingURL=Toolbar.js.map

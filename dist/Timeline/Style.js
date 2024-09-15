@@ -7,3 +7,4 @@ class Style {
     }
 }
 exports.Style = Style;
+//# sourceMappingURL=Style.js.map

@@ -13,3 +13,4 @@ class Interaction {
     }
 }
 exports.Interaction = Interaction;
+//# sourceMappingURL=Geodata.js.map

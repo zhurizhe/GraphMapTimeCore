@@ -10,3 +10,4 @@ class Rendering {
     }
 }
 exports.Rendering = Rendering;
+//# sourceMappingURL=Rendering.js.map
