@@ -1,5 +1,5 @@
-import { Layout } from './KnowledgeGraph/Layout';
-import {  GraphInteraction } from './KnowledgeGraph/Interaction';
+import { Layout } from './Graph/Layout';
+import {  GraphInteraction } from './Graph/Interaction';
 import { Style as TimelineStyle } from './Timeline/Style';
 import { TimelineInteraction } from './Timeline/Interaction';
 import { Rendering as MapRendering } from './Map/Rendering';
@@ -19,10 +19,10 @@ Toolbar.addButton('Zoom In', () => {});
 SettingsPanel.configure('theme', 'dark');
 DataIO.exportData({ example: 'data' });
 
-export * from './KnowledgeGraph/Node';
-export * from './KnowledgeGraph/Edge';
-export * from './KnowledgeGraph/Layout';
-export * from './KnowledgeGraph/Interaction';
+export * from './Graph/Node';
+export * from './Graph/Edge';
+export * from './Graph/Layout';
+export * from './Graph/Interaction';
 
 export * from './Timeline/Event';
 export * from './Timeline/Style';
