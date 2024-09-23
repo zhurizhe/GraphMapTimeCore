@@ -2,6 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.Layout = void 0;
 class Layout {
+    type;
     // Placeholder for layout algorithms
     static forceDirected(nodes, edges) {
         // Implementation of force-directed layout
